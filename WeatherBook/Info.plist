@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please let us know your current location to provide weather at pricise location.</string>
 </dict>
 </plist>
